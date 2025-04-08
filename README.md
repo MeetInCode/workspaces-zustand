@@ -3,6 +3,8 @@
 > 📝 [View Sample Implementation](sample.tsx)
 
 A modern workspace management application built with React, TypeScript, and Zustand for state management.
+![image](https://github.com/user-attachments/assets/b9404141-50d7-401f-a501-d51ae4ee1e0a)
+
 
 ## Features
 
